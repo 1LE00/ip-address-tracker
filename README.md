@@ -70,14 +70,14 @@ cd ip-address-tracker
 
 ```bash
 
-- npm install
+npm install
 
 ```
 
 4. **Run the Development Server:**
 ```bash
 
-- npm run dev
+npm run dev
 
 ```
 
