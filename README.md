@@ -53,16 +53,15 @@ To run this project locally, follow these steps:
 ```bash
 
 git clone https://github.com/1LE00/ip-address-tracker.git
-
 cd ip-address-tracker
 
 ```
 
 2. **Create .env.local file**
 
-- Create a .env.local file in the root directory.
-- Save the api key from [IP Geolocation API by IPify](https://geo.ipify.org/) in `REACT_APP_API_KEY` like this 
-- REACT_APP_API_KEY=your_api_key
+Create a .env.local file in the root directory.
+Save the api key from [IP Geolocation API by IPify](https://geo.ipify.org/) in `REACT_APP_API_KEY` like this 
+REACT_APP_API_KEY=your_api_key
 
 ⚠️ **IMPORTANT** ⚠️: To use the IP Geolocation API by IPify, you'll need to sign up for a free account. You won't need to add any cards details to do this and it's a very quick process. This will generate an API Key for you. Usually, you would be able to restrict your API Key to a specific URL (your own domain). This makes sure that other people can't use your API Key on their own websites. IPify doesn't have this feature, but because you aren't adding your card details, this isn't an issue. **So be sure to only sign up for the free account and DO NOT enter any card details**.
 
@@ -77,7 +76,7 @@ npm install
 4. **Run the Development Server:**
 ```bash
 
-npm run dev
+npm start
 
 ```
 
