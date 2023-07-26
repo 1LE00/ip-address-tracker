@@ -50,12 +50,11 @@ Users should be able to:
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-
 ```bash
 
-git clone https://github.com/1LE00/frontend-assignment.git                                                                                 
+git clone https://github.com/1LE00/ip-address-tracker.git
 
-cd frontend-assignment
+cd ip-address-tracker
 
 ```
 
